@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClassSizeofTests.cpp">
+    <ClCompile Include="StructAndClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
