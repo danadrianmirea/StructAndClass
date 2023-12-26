@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConstExpr.cpp">
+    <ClCompile Include="ClassSizeofTests.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
